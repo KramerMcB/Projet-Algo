@@ -17,6 +17,8 @@ int Triangle(int a, int b, int c)
 
 }
 
+// Hello Sam !
+
 int main()
 {
     int a,b,c;
