@@ -27,7 +27,8 @@ int main()
     if(Triangle(a,b,c) == 0 )
     {
         printf("Le triangle n'est pas rectangle");
-    }else if(Triangle(a,b,c) == 1)
+    }
+    else if(Triangle(a,b,c) == 1)
     {
         printf("Le triangle est rectangle");
     }
